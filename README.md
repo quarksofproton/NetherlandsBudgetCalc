@@ -1,5 +1,7 @@
 # Netherlands Budget Calculator (Hollanda Bütçe Simülatörü)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://quarksofproton.github.io/NetherlandsBudgetCalc/)
+
 Bu proje, Hollanda'da yaşayan veya taşınmayı planlayan çiftler için geliştirilmiş, 2026 Hollanda vergi yasalarına (Box 1 dilimleri, %27 Ruling geçişi, Algemene Heffingskorting vb.) tam uyumlu, tarayıcı tabanlı kapsamlı bir finansal simülasyon ve karar platformudur.
 
 ## 🚀 Özellikler (Features)
